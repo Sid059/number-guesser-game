@@ -17,12 +17,14 @@ An interactive number guessing game built with HTML, CSS, and JavaScript where p
 5. **Track scores** - compete to get the highest score!
 
 ## 📁 Project Structure
+```
 number-guesser-game/
 ├── index.html              # Main game interface
 ├── style.css               # Game styling and layout  
 ├── game.js                 # Core game logic and event handlers
 ├── script.js               # Game functions and utilities
 └── README.md               # Documentation
+```
 
 ## 🌐 Live Demo
 [Play the Game Live](https://sid059.github.io/number-guesser-game/)
